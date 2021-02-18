@@ -7,7 +7,7 @@ public class Test {
 		System.out.println("sample Project");
 		
 		System.out.println("Code change");
-		System.out.println("Githhub");
+		System.out.println("Second commit");
 	}
 
 }
